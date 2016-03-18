@@ -1,0 +1,21 @@
+{
+  "name": "nodequery",
+  "version": "1.0.0",
+  "description": "query Azure subscriptions for admins",
+  "main": "index.js",
+  "dependencies": {
+    "adal-node": "^0.1.18",
+    "config": "^1.19.0",
+    "fast-csv": "^1.0.0",
+    "process": "^0.11.2",
+    "q": "^1.4.1",
+    "request": "^2.69.0",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Lasne",
+  "license": "MIT"
+}

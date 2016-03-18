@@ -1,0 +1,7 @@
+{
+    "authority": "https://login.windows.net/",
+    "directory": "peterlasne.onmicrosoft.com",
+    "clientId": "########-####-####-####-############",
+    "username": "service@peterlasne.onmicrosoft.com",
+    "password": "???????????"
+}
