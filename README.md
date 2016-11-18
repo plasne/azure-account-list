@@ -9,6 +9,7 @@ You must also have an ORGANIZATIONAL ACCOUNT as a Reader (or better) in one or m
 
 ## Subscription Permissions
 To add an account as a Reader on a subscription:
+
 1. Login to https://portal.azure.com.
 2. Click on "Browse >" in the navigation section.
 3. Click on "Subscriptions".
